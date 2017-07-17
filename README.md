@@ -3,5 +3,5 @@
 Tank-Battle
 [here](link)
 ---
-##List
-*Test GitHub Readme
+## List
+* Test GitHub Readme

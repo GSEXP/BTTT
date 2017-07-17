@@ -5,3 +5,4 @@ Tank-Battle
 ---
 ## List
 * Test GitHub Readme
+* Clone Complete
